@@ -4,6 +4,7 @@
 
 * [Prerequisites](#prerequisites)
 * [Course Modules](#course-modules)
+* [Datasets](#datasets)
 
 ## Prerequisites
 
