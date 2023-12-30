@@ -22,3 +22,8 @@
 1. [Data Visualization with Looker Studio](05-data-visualization-with-looker-studio)
 1. [Implementing Machine Learning Models in BigQuery ML](06-implementing-machine-learning-models-in-bigquery-ml)
 1. [Real-world Capstone Project](07-real-world-capstone-project)
+
+## Datasets
+
+* [Breakfast at the Frat](https://github.com/zkan/open-data/tree/main/breakfast-at-the-frat)
+* [Best Buy](https://github.com/zkan/open-data/tree/main/best-buy-apis)
