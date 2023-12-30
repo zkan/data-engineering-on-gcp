@@ -13,6 +13,7 @@
 1. Git & GitHub
 1. Command-Line Interface (CLI)
 1. Docker
+1. Google Cloud Platform (GCP)
 
 ## Course Modules
 
