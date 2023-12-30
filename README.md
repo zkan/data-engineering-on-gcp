@@ -2,7 +2,16 @@
 
 ### Table of Contents
 
+* [Prerequisites](#prerequisites)
 * [Course Modules](#course-modules)
+
+## Prerequisites
+
+1. Python
+1. SQL
+1. Git & GitHub
+1. Command-Line Interface (CLI)
+1. Docker
 
 ## Course Modules
 
