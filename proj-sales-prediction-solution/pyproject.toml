@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "proj-sales-prediction"
+version = "0.1.0"
+description = ""
+authors = ["Kan Ouivirach <zkan.cs@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+sqlalchemy = "2.0.25"
+pymysql = "1.1.0"
+pandas = "2.1.4"
+google-cloud-bigquery = "^3.16.0"
+pyarrow = "^14.0.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
