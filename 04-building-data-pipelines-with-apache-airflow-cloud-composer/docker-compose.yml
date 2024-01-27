@@ -204,5 +204,3 @@ services:
 
 volumes:
   airflow-metastore-data-volume:
-  minio-data-volume:
-  postgres-data-volume:
